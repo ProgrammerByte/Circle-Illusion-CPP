@@ -1,0 +1,13 @@
+﻿  Application.cpp
+C:\Users\Thomas Popay\source\repos\Circle Illusion\OpenGL\src\Application.cpp(67,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Circle Illusion\OpenGL\src\Application.cpp(67,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Circle Illusion\OpenGL\src\Application.cpp(67,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Circle Illusion\OpenGL\src\Application.cpp(67,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Circle Illusion\OpenGL\src\Application.cpp(79,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Circle Illusion\OpenGL\src\Application.cpp(79,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Circle Illusion\OpenGL\src\Application.cpp(79,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Circle Illusion\OpenGL\src\Application.cpp(82,70): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Circle Illusion\OpenGL\src\Application.cpp(82,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Circle Illusion\OpenGL\src\Application.cpp(82,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Circle Illusion\OpenGL\src\Application.cpp(43): warning C4715: 'input': not all control paths return a value
+  OpenGL.vcxproj -> C:\Users\Thomas Popay\source\repos\Circle Illusion\OpenGL\Debug\Template.exe
